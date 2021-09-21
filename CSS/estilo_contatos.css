@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+
+h1{
+text-align: left;
+    color: #FFF;
+    font-size: 1.3em;
+    margin: 10px;
+
+}
+form{
+    width: 90%;
+    margin: auto;
+}
+
+fieldset p{
+    text-align: left;
+}
+
+legend{
+    color: rgb(229, 229, 240);
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+fieldset{
+    border-color: rgb(72, 149, 221);
+    margin: 40px;
+}
+

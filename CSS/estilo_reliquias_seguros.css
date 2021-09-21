@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+@font-face{/*Sempre colocar no inicio do CSS*/
+    font-family: play; /*Escolher a fonte da pagina*/
+    src: url(../fontes/bubblegum-sans-regular.otf)/*Local da fonte*/
+}
+
+#reliquias{
+    display: block;
+    width: 50%;
+    float: left;
+    border-right: 2px solid;
+    margin: 5px auto;
+}
+
+#lateral_reliquias{
+    display: block;
+    width: 30%;
+    float: right;
+    margin: 0px auto;
+    padding: 0px;
+}
+
+#reliquias p, #lateral_reliquias p{
+    text-align: justify;
+    padding: 0px 2px;
+}
+
+h1.titulo_carros{
+    color: rgb(11, 167, 240);
+    font-size: 2.2em;
+    text-align: center;
+    margin: 3px 0px;
+    font-family: play;
+}
+
+table{ /*tamanho da imagem*/
+    text-align: center;
+    margin: 0px;
+}

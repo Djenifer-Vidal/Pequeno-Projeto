@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+.radio_tv{
+    width: 10%;
+    height: 85px;
+    margin: 10px auto;
+}
+
+
+h1{
+    color: #fff;
+    font-size: 3.0em;
+    text-align: center;
+    
+}
+
+#filme{
+    display: flex;
+    position: relative;
+    width: 49%;
+    height: 100px;
+    top: 40px;
+    left: 85px;
+}
